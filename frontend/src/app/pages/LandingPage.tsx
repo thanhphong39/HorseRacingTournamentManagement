@@ -4,18 +4,14 @@ import {
   Users,
   Timer,
   TrendingUp,
-  Shield,
-  ChevronRight,
   Medal,
   Star,
-  Activity,
   Sparkles,
   Play,
   Eye,
   ArrowRight,
   Flame,
-  Zap,
-  BarChart3,
+  BarChart,
   Lock,
   Globe,
   Headphones,
@@ -29,7 +25,7 @@ export function LandingPage() {
 
   const features = [
     {
-      icon: BarChart3,
+      icon: BarChart,
       title: 'Phân Tích Thời Gian Thực',
       description: 'Theo dõi mọi cuộc đua với thống kê nâng cao, tỷ lệ cược trực tiếp và dữ liệu hiệu suất toàn diện.'
     },
